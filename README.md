@@ -34,3 +34,7 @@ python
 Copy code
 from flask import Flask, request, jsonify
 import mysql.connector
+## Response from Backend Server
+![Screenshot 2024-06-10 115116](https://github.com/principie/PieBot/assets/93659513/fc6e230e-f0ec-4912-bae2-c21608f1b3aa)
+## Stored data from user in MySQL 
+![Screenshot 2024-06-10 115134](https://github.com/principie/PieBot/assets/93659513/3e79b88a-e599-4a99-a172-f89bb07f13b6)
