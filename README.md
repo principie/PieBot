@@ -14,5 +14,5 @@ Piebot is an intelligent chatbot designed to assist users in selecting and enrol
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/piebot.git
+git clone https://github.com/principie/PieBot.git
 cd piebot
